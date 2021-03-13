@@ -1,0 +1,171 @@
+body{
+background-image: linear-gradient(to right, #a33999, #803690, #5d3385, #3b2d76, #152664);}
+.navbar-light .navbar-nav .nav-link {
+	color:#E7EA1D ;
+	font-size:120%;
+	font-weight:bold;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+	color:white;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+	color:#C0C1B8 ;
+}
+.welcome h1{
+	font-size:180%;
+}
+.welcome h2{
+	color:white;
+	font-size:120%;
+}
+.basic-quiz{
+	color:white;
+	margin-top:3%;
+}
+.wel{
+	color:white;
+	font-size:300%;
+}
+.cpp {
+	font-size:160%;
+	text-decoration:none;
+	background:#ffffff;
+	font-weight:bold;
+	transition:.7s;
+	color:black;
+	
+	
+}
+.cpp a{
+	text-decoration:none;
+	color:black;
+}
+.cpp :hover{
+	background:red;
+	cursor:pointer;
+	color:white;
+	text-decoration:none;
+}
+
+
+.loginfo{
+	margin:6% auto;
+	padding:5%;
+	width:40%;
+	height:100%;
+	background:white;
+	text-align:left;
+	
+}
+
+.login{
+	margin-top:-5%;
+	text-align:center;
+	font-weight:bold;
+	color:#000000;
+}
+.loginfo input{
+      width:100%;	  
+}
+.loginfo p{
+	margin-top:8%;
+	color:#000000;
+}
+.logname{
+	width:100%;
+}
+.sub{
+	background-image: linear-gradient(to right, #c81534, #d01258, #cf267b, #c53e9d, #b255bb);height:2%;
+	color:white;
+	font-size:150%;
+	font-weight:bold;
+	transition:.7s;
+	
+	
+	
+	
+}
+.sub:hover{
+	background-image: linear-gradient(to right, #0c0c0d, #2e2f3e, #525374, #7a79af, #a5a2ed);
+	
+}
+.new_user{
+	text-align:center;
+	font-size:120%;
+}
+.new_user a{
+	text-decoration:none;
+	cursor:pointer;
+	color:blue;
+}
+.new_user a:hover{
+	text-decoration:none;
+	cursor:pointer;
+	color:black;
+	
+}
+.welcome{
+	margin:8% auto;
+	text-align:center;
+	font-size:300%;
+	
+	
+	}
+.intro-log{
+	margin:8% auto;
+	text-align:center;
+	font-size:180%;
+}
+.intro-log a{
+	text-decoration:none;
+	cursor:pointer;
+	border:1px solid #ffffff;
+    padding:1% 3%;
+	background:#7939AA;
+	color:white;
+	margin-left:3%;
+	
+}
+.signinfo .logname{
+	width:100%;
+}
+.signinfo .sign_sub{
+	width:40%;
+	background:blue;
+	font-weight:bold;
+	color:white;
+}
+.percent{
+	width:80px;
+height:80px;
+}
+.logout-menu input{
+	background:#DE3F22 ;
+	color:white;
+}
+.progress-bar{
+	width:20%;
+}
+.pro-title{
+	margin-top:2%;
+}
+.footer-row{
+	padding:3% 0;
+}
+.footer li{
+	list-style:none;
+}
+.footer a{
+	text-decoration:none;
+	color:gray;
+}
+.footer a:hover{
+	color:white;
+}
+.footer li{
+	color:white;
+}
+.icon{
+	font-size:160%;
+	color: #ADD8E6;
+}
